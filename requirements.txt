@@ -1,5 +1,1 @@
-requests
-mechanize
-facebook-sdk
-bs4
-gunicorn
+requests==2.26.0
